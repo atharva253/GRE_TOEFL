@@ -1,5 +1,5 @@
 # GRE Quant
-For someone who has prepared for JEE Mains and Advanced, the quantitative section would be a lot easier. The syllabus is close to what you learn up to tenth grade. The major challenge here is to make minimum mistakes. You should aim for a near perfect (168-170) score in quant if you plan to apply to top Engineering / Computer Science schools.  
+For someone who has prepared for JEE Mains and Advanced in the past, the quantitative section would be a lot easier. The syllabus is close to what you learn up to tenth grade. The major challenge here is to make minimum mistakes. You should aim for a near perfect (168-170) score in quant if you plan to apply to top Engineering / Computer Science schools.  
 
 Your first step would be to attempt the diagnostic test from the Manhattan 5lb with a timer. If you get 18-20 questions right, you will most probably not require a dedicated revision plan. If not, identify specific topics you might need to brush up on. Spend a few days revising these topics either from your own notes or from Magoosh videos. 
 
