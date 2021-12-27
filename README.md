@@ -1,7 +1,7 @@
 # GRE_TOEFL
 The objective of this repository is to steer your GRE and TOEFL preparation, such that you can make the most of your time and resources. Though it is possible to perform well in these exams with a month’s preparation, you can plan it out based on your other time commitments (coursework, internship, projects). 
 
-In this guide, I aim to share some resources I found useful during my preparation and give some exam tips to help structure your preparation. For the most part, I have followed the exceedingly helpful GRE_PREP guide by Amogh Dabholkar and Dhruva Barfiwala. I hope to further streamline it based on what worked best for me. I have tried to minimize the material required to a good extent. If you need further material / guidance, I would recommend checking out their guide too. It is assumed that you have prepared for JEE in the past and have adequate background in high school mathematics.
+In this guide, I aim to share some resources I found useful during my preparation and give some exam tips to help structure your preparation. For the most part, I have followed the exceedingly helpful [GRE_PREP](https://github.com/AmoghDabholkar/GRE_PREP) guide by Amogh Dabholkar and Dhruva Barfiwala. I hope to further streamline it based on what worked best for me. I have tried to minimize the material required to a good extent. If you need further material / guidance, I would recommend checking out their guide too. It is assumed that you have prepared for JEE in the past and have adequate background in high school mathematics.
 
 *Credentials*:
 
