@@ -10,7 +10,7 @@ Here are some word lists I followed during my preparation. In my opinion, these 
 - If you are done with the Magoosh Flashcards and still have a week left, I would suggest going through this list too. 
 - A lot of words overlap with the Magoosh Flashcards and so this list should not take you more than 3 days.   
 
-Once you are done with the Basic decks from the Magoosh Flashcards, it's time to start solving questions. I relied completely on the Magoosh Verbal Exercise Questions and solved almost all of them. The questions seemed to be slightly tougher than the actual GRE Verbal exam, but I believe that would prepare you for the worst. 
+Once you are done with the Basic decks from the Magoosh Flashcards, it's time to start solving questions. I relied completely on the Magoosh Verbal Exercise Questions and solved almost all of them. The questions might seem to be slightly tougher than the actual GRE Verbal exam, but I believe that would prepare you for the worst. 
 
 Also, Magoosh Exercises have video solutions which teach you some guessing and option-elimination skills. I would recommend going through all these videos, even if you get the question right. 
 
