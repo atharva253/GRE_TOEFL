@@ -13,6 +13,7 @@ TOEFL Score: 109/120 (R: 30, L: 28, S: 26, W: 25)
 - Though I gave my exams in August and September, I would strongly advice giving them as early as possible. That would give you ample time to prepare and give them again, if required. An ideal time would be May/June. Some people even manage to complete them in their third year.
 - Before you register for GRE and TOEFL, you need to have a valid passport. Also, make sure your name on the passport exactly matches with that on the application to avoid future hassle.
 - Prepare a timeline, choose your resources and stick to them. Avoid changing the books / online resources you follow during your journey unless it is absolutely necessary.
+- In case you have opted for the Home Edition, make sure that you perform the ProctorU Equipment Check multiple times throughout the day to avoid last minute issues.
 
 I hope this guide helps you make the right choices.
 
