@@ -9,7 +9,7 @@ Some general tips for the Speaking Section:
 - Avoid “umm”, “a” or “uh” while speaking. You can instead pause for a second or two and recollect your thoughts.
 - Pay attention to your intonation and pronunciation.
 - Avoid speaking about things you do not remember clearly.
-- It’s fine if you finish too early or get cut off at the end as long as the crux of the conversation is present.
+- It’s fine if you finish early or get cut off at the end as long as the crux of the conversation is present.
 
 Some general tips for the Writing Section:
 - Avoid unnecessary jargon in the essays.
